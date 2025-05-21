@@ -1,0 +1,159 @@
+{
+    "user_id": 7692620451,
+    "position": "Оператор",
+    "registration_date": "2025-05-13",
+    "role": "Manager",
+    "first_name": "Упр",
+    "last_name": "Упр",
+    "city": "Раудга парк Екатеринбуррг ул. Репина, 94",
+    "mentor": {
+        "id": 1854375943,
+        "first_name": "антон",
+        "last_name": "жуков",
+        "phone_number": "79096676751"
+    },
+    "email": "ddsgg@afe.aeg",
+    "phone_number": "919099476058",
+    "warpoint_location": "Warpoint Park",
+    "vr_room": "Да",
+    "vr_extreme": "Да",
+    "attractions": {
+        "Twister": "Нет",
+        "VR-Helicopter": "Да",
+        "VR-Eggs": "Да",
+        "Emotion": "Нет"
+    },
+    "course": 1,
+    "course_plan": {
+        "Attractions": [
+            {
+                "title": "Инфо",
+                "status": "not completed"
+            },
+            {
+                "title": "Материал",
+                "status": "not completed"
+            },
+            {
+                "title": "VR-Helicopter",
+                "status": "not completed"
+            },
+            {
+                "title": "Тест VR-Helicopter",
+                "status": "not completed"
+            },
+            {
+                "title": "VR-Eggs",
+                "status": "not completed"
+            },
+            {
+                "title": "Тест VR-Eggs",
+                "status": "not completed"
+            },
+            {
+                "title": "Итог",
+                "status": "not completed"
+            },
+            {
+                "title": "Тест итог",
+                "status": "not completed"
+            }
+        ],
+        "Arena": [
+            {
+                "title": "Инфо",
+                "status": "not completed"
+            },
+            {
+                "title": "Материал 1",
+                "status": "not completed"
+            },
+            {
+                "title": "Материал 2",
+                "status": "not completed"
+            },
+            {
+                "title": "Тест",
+                "status": "not completed"
+            },
+            {
+                "title": "Итог",
+                "status": "not completed"
+            },
+            {
+                "title": "Тест итог",
+                "status": "not completed"
+            }
+        ],
+        "VR-Room": [
+            {
+                "title": "Инфо",
+                "status": "not completed"
+            },
+            {
+                "title": "Материал 1",
+                "status": "not completed"
+            },
+            {
+                "title": "Материал 2",
+                "status": "not completed"
+            },
+            {
+                "title": "Тест",
+                "status": "not completed"
+            },
+            {
+                "title": "Итог",
+                "status": "not completed"
+            },
+            {
+                "title": "Тест итог",
+                "status": "not completed"
+            }
+        ],
+        "Excursion": [
+            {
+                "title": "Инфо",
+                "status": "not completed"
+            },
+            {
+                "title": "Материал",
+                "status": "not completed"
+            },
+            {
+                "title": "Тест",
+                "status": "not completed"
+            },
+            {
+                "title": "Итог",
+                "status": "not completed"
+            },
+            {
+                "title": "Тест итог",
+                "status": "not completed"
+            }
+        ],
+        "Events": [
+            {
+                "title": "Инфо",
+                "status": "not completed"
+            },
+            {
+                "title": "Материал",
+                "status": "not completed"
+            },
+            {
+                "title": "Тест",
+                "status": "not completed"
+            },
+            {
+                "title": "Итог",
+                "status": "not completed"
+            },
+            {
+                "title": "Тест итог",
+                "status": "not completed"
+            }
+        ]
+    }
+}

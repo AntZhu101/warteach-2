@@ -1,0 +1,77 @@
+{
+    "user_id": 1854375943,
+    "position": "Оператор",
+    "registration_date": "2025-04-16",
+    "role": "mentor",
+    "first_name": "антон",
+    "last_name": "жуков",
+    "city": "Раудга парк Екатеринбуррг ул. Репина, 94",
+    "mentor_name": "Нет",
+    "email": "WDJJFJ@DJEJ.EFE",
+    "phone_number": "79096676751",
+    "warpoint_location": "Warpoint Arena",
+    "vr_room": "Нет",
+    "vr_extreme": "Нет",
+    "attractions": {},
+    "course": 4,
+    "course_plan": {
+        "Excursion": [
+            {
+                "title": "Инфо",
+                "status": "not completed"
+            },
+            {
+                "title": "Материал",
+                "status": "not completed"
+            },
+            {
+                "title": "Тест",
+                "status": "not completed"
+            },
+            {
+                "title": "Итог",
+                "status": "not completed"
+            },
+            {
+                "title": "Тест итог",
+                "status": "not completed"
+            }
+        ],
+        "Events": [
+            {
+                "title": "Инфо",
+                "status": "not completed"
+            },
+            {
+                "title": "Материал",
+                "status": "not completed"
+            },
+            {
+                "title": "Тест",
+                "status": "not completed"
+            },
+            {
+                "title": "Итог",
+                "status": "not completed"
+            },
+            {
+                "title": "Тест итог",
+                "status": "not completed"
+            }
+        ]
+    },
+    "Trainee": {
+        "734454494": {
+            "id": 734454494,
+            "first_name": "антонъ",
+            "last_name": "жуков",
+            "phone_number": "79126312471"
+        },
+        "7692620451": {
+            "id": 7692620451,
+            "first_name": "Упр",
+            "last_name": "Упр",
+            "phone_number": "919099476058"
+        }
+    }
+}
